@@ -1,7 +1,3 @@
-mkdir data
-mkdir data\lobby
-mkdir data\pvp
-mkdir data\proxy
 cd data
 cd lobby
 start java -jar ../../bin/paper-1.20.4-409.jar
